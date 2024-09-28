@@ -1,0 +1,50 @@
+query ($num_repos: Int!, $num_prs: Int!, $cursor: String) {
+  search(
+    query: "stars:>1 sort:stars-desc"
+    type: REPOSITORY
+    first: $num_repos
+    after: $cursor
+  ) {
+    edges {
+      node {
+        ... on Repository {
+          name
+          stargazerCount
+          url
+          pullRequests(first: $num_prs, states: [MERGED, CLOSED]) {
+            nodes {
+              reviews(first: 1) {
+                totalCount
+              }
+
+              # Size
+              changedFiles
+              additions
+              deletions
+
+              # Elapsed analysis time
+              createdAt
+              closedAt
+              mergedAt
+
+              # Description
+              body
+
+              # Interaction
+              totalCommentsCount
+              participants {
+                totalCount
+              }
+            }
+            totalCount
+          }
+        }
+      }
+    }
+    pageInfo {
+      endCursor
+      hasNextPage
+      hasPreviousPage
+    }
+  }
+}
