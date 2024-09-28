@@ -9,14 +9,8 @@ query ($num_repos: Int!, $num_prs: Int!, $cursor: String) {
       node {
         ... on Repository {
           name
-          stargazerCount
-          url
           pullRequests(first: $num_prs, states: [MERGED, CLOSED]) {
             nodes {
-              reviews(first: 1) {
-                totalCount
-              }
-
               # Size
               changedFiles
               additions
@@ -33,6 +27,12 @@ query ($num_repos: Int!, $num_prs: Int!, $cursor: String) {
               # Interaction
               totalCommentsCount
               participants {
+                totalCount
+              }
+
+              # Other
+              state
+              reviews {
                 totalCount
               }
             }
