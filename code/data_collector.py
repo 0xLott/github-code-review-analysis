@@ -39,10 +39,8 @@ def run_query(query_name, batch_size, query_file, variables):
                 "pullRequests": []
             }
 
-            # Process pull requests for the current repository
+            # Process pull requests for the current repository and extend with the nodes since pull requests might not be paginated
             pull_requests = node['node']['pullRequests']
-
-            # Directly extend with the nodes since pull requests might not be paginated
             repository_data["pullRequests"].extend(pull_requests['nodes'])
 
             retrieved_data.append(repository_data)
@@ -54,13 +52,11 @@ def run_query(query_name, batch_size, query_file, variables):
         remaining_repos = total_repos % batch_size
         cursor = None
 
-        # Process full batches
         for batch_number in range(full_batches_repos):
             print(f'Page {batch_number + 1}')
             cursor = json['data']['search']['pageInfo']['endCursor'] if cursor else ''
             process_batch(batch_size, cursor)
 
-        # Process any remaining repositories
         if remaining_repos > 0:
             print('Last Page:')
             process_batch(remaining_repos, cursor)
@@ -83,11 +79,12 @@ def dispatch_request(query, variables):
         headers=headers
     )
 
+    print("Query dispatched")
+
     if response.status_code != 200:
         print(f"Error: {response.status_code} - {response.text}")
         return None
 
-    print("Query dispatched")
     return response
 
 

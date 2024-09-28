@@ -1,0 +1,1 @@
+- Process query results to only aggregate PRs which took at least one hour to merge (or close)

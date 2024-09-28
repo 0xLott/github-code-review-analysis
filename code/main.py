@@ -9,17 +9,17 @@ queries = {
     "pr_interaction": "queries/pr_interaction_query.gql"
 }
 
-batch_size = 10
+batch_size = 1   # batch_size = max_requests_per_hour / repos * prs
 
 variables = {
-    "num_repos": 100,
-    "num_prs": 10,
+    "num_repos": 200,
+    "num_prs": 100,
 }
 
 if __name__ == "__main__":
     print('''
-    1- Fetch data from GitHub GraphQL API
-    2- Calculate and display stats
+    1: Fetch data from GitHub GraphQL API
+    2: Calculate and display stats
     ''')
     
     option = input("Action: ")
