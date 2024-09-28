@@ -1,7 +1,9 @@
-from dotenv import load_dotenv
-import csv
 import os
 import requests
+import csv
+import ast
+
+from dotenv import load_dotenv
 
 load_dotenv()
 token = os.getenv('GITHUB_TOKEN')
@@ -14,8 +16,13 @@ headers = {
 # GitHub GraphQL API endpoint
 url = "https://api.github.com/graphql"
 
+def load_query(query_file):
+    with open(query_file, 'r') as file:
+        return file.read()
 
-def run_query(batch_size, query, variables):
+
+def run_query(query_name, batch_size, query_file, variables):
+    query = load_query(query_file)
     variables['cursor'] = ''
     total_repos = variables['num_repos']
     retrieved_data = []
@@ -45,7 +52,7 @@ def run_query(batch_size, query, variables):
     else:
         process_batch(total_repos)
 
-    write_data(retrieved_data)
+    write_data(retrieved_data, query_name)
 
 
 def dispatch_request(query, variables):
@@ -56,25 +63,25 @@ def dispatch_request(query, variables):
             "variables": variables
         },
         headers=headers
-    )    
+    )
 
     if response.status_code != 200:
         print(f"Error: {response.status_code} - {response.text}")
         return None
 
     print("Query dispatched")
-
     return response
 
 
-def write_data(json):
-    csv_file_path = 'query/results.csv'
-
-    parsed_data = [ast.literal_eval(item) if isinstance(item, str) else item for item in json]
-
+def write_data(data, query_name):
+    file_path = f'queries/results/{query_name}_results.csv'
+    
+    parsed_data = [ast.literal_eval(item) if isinstance(item, str) else item for item in data]
     headers = parsed_data[0].keys()
 
-    with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+    with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=headers)
         writer.writeheader()
         writer.writerows(parsed_data)
+
+    print(f'Data written to {file_path} file')

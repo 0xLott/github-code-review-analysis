@@ -8,29 +8,9 @@ query ($num_repos: Int!, $num_prs: Int!, $cursor: String) {
     edges {
       node {
         ... on Repository {
-          name
+          id
           pullRequests(first: $num_prs, states: [MERGED, CLOSED]) {
             nodes {
-              # Size
-              changedFiles
-              additions
-              deletions
-
-              # Elapsed analysis time
-              createdAt
-              closedAt
-              mergedAt
-
-              # Description
-              body
-
-              # Interaction
-              totalCommentsCount
-              participants {
-                totalCount
-              }
-
-              # Other
               state
               reviews {
                 totalCount
