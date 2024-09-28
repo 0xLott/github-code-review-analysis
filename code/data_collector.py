@@ -20,37 +20,55 @@ def load_query(query_file):
     with open(query_file, 'r') as file:
         return file.read()
 
-
 def run_query(query_name, batch_size, query_file, variables):
     query = load_query(query_file)
     variables['cursor'] = ''
     total_repos = variables['num_repos']
+    total_prs = variables['num_prs']
     retrieved_data = []
 
-    def process_batch(batch_size):
-        variables['num_repos'] = batch_size
+    def process_batch(batch_repos_size, cursor):
+        variables['num_repos'] = batch_repos_size
+        variables['cursor'] = cursor
         json = dispatch_request(query, variables).json()
 
         nodes = json['data']['search']['edges']
         for node in nodes:
-            retrieved_data.append(node['node'])
+            repository_data = {
+                "id": node['node']['id'],
+                "pullRequests": []
+            }
 
-        variables['cursor'] = json['data']['search']['pageInfo']['endCursor']
+            # Process pull requests for the current repository
+            pull_requests = node['node']['pullRequests']
+
+            # Directly extend with the nodes since pull requests might not be paginated
+            repository_data["pullRequests"].extend(pull_requests['nodes'])
+
+            retrieved_data.append(repository_data)
+
         return json
 
-    if total_repos > batch_size:
-        full_batches = total_repos // batch_size
-        remaining_items = total_repos % batch_size
+    def process_pagination(total_repos):
+        full_batches_repos = total_repos // batch_size
+        remaining_repos = total_repos % batch_size
+        cursor = None
 
-        for batch_number in range(full_batches):
+        # Process full batches
+        for batch_number in range(full_batches_repos):
             print(f'Page {batch_number + 1}')
-            process_batch(batch_size)
+            cursor = json['data']['search']['pageInfo']['endCursor'] if cursor else ''
+            process_batch(batch_size, cursor)
 
-        if remaining_items > 0:
+        # Process any remaining repositories
+        if remaining_repos > 0:
             print('Last Page:')
-            process_batch(remaining_items)
+            process_batch(remaining_repos, cursor)
+
+    if total_repos > batch_size:
+        process_pagination(total_repos)
     else:
-        process_batch(total_repos)
+        process_batch(total_repos, None)
 
     write_data(retrieved_data, query_name)
 

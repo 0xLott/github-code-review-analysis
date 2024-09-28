@@ -2,21 +2,21 @@ import os
 from data_collector import run_query
 
 queries = {
-    "pr_body": "queries/pr_body_query.gql",
+    "pr": "queries/pr_query.gql",
     "pr_size": "queries/pr_size_query.gql",
-    "pr_description": "queries/pr_description_query.gql",
-    "pr_interaction": "queries/pr_interaction_query.gql",
-    "pr": "queries/pr_query.gql"
+    "pr_time": "queries/pr_time_query.gql",
+    "pr_body": "queries/pr_body_query.gql",
+    "pr_interaction": "queries/pr_interaction_query.gql"
 }
 
-batch_size = 20
+batch_size = 10
 
 variables = {
-    "num_repos": 10,
-    "num_prs": 5,
+    "num_repos": 100,
+    "num_prs": 10,
 }
 
-
 if __name__ == "__main__":
-    for query_name, query_file in queries.items():
-        run_query("pr_body", batch_size, query_file, variables)
+    run_query("pr_body", batch_size, "queries/pr_body_query.gql", variables)
+    # for query_name, query_file in queries.items():
+    #     run_query(query_name batch_size, query_file, variables)
