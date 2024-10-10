@@ -9,7 +9,7 @@ queries = {
     "pr_interaction": "queries/pr_interaction_query.gql"
 }
 
-batch_size = 1   # batch_size = max_requests_per_hour / repos * prs
+batch_size = 1  # batch_size = max_requests_per_hour / repos * prs
 
 variables = {
     "num_repos": 200,
@@ -17,17 +17,18 @@ variables = {
 }
 
 if __name__ == "__main__":
-    # print('''
-    # 1: Fetch data from GitHub GraphQL API
-    # 2: Calculate and display stats
-    # ''')
+    print('''
+    1: Fetch data from GitHub GraphQL API
+    2: Calculate and display stats
+    ''')
     
-    # option = input("Action: ")
-    # match option:
-    #     case "1":
-    #         for query_name, query_file in queries.items():
-    #             run_query(query_name, batch_size, query_file, variables)
-    #     case _:
-    #         exit()
+    option = input("Action: ")
+    match option:
+        case "1":
+            for query_name, query_file in queries.items():
+                run_query(query_name, batch_size, query_file, variables)
+        case _:
+            exit()
 
-    run_query("pr_size", batch_size, queries["pr_size"], variables)
+    # Run single query
+    # run_query("pr_body", batch_size, queries["pr_size"], variables)
