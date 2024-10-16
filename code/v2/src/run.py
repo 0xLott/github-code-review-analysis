@@ -35,7 +35,7 @@ def pull_requests_data_function(data):
     print(f'Mined pull requests! {pull_requests}')
 
     for pull_request in pull_requests:
-        if pull_request['reviews']['totalCount'] > 0 and is_difference_greater_than_one_hour(
+        if pull_request['author'] is not None and pull_request['reviews']['totalCount'] > 0 and is_difference_greater_than_one_hour(
             pull_request['closedAt'], pull_request['createdAt']
         ):
             pull_request_data = {

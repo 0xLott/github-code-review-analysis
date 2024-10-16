@@ -2,6 +2,7 @@ import requests
 import os
 from dotenv import load_dotenv
 from pathlib import Path
+import time
 
 dotenv_path = Path('../.env')
 load_dotenv(dotenv_path)
@@ -15,20 +16,25 @@ GITHUB_HEADERS = {
 
 
 def dispatch_request(query, variables):
-    response = requests.post(
-        GITHUB_API_URL,
-        json={
-            "query": query,
-            "variables": variables
-        },
-        headers=GITHUB_HEADERS
-    )
+    try:
+        response = requests.post(
+            GITHUB_API_URL,
+            json={
+                "query": query,
+                "variables": variables
+            },
+            headers=GITHUB_HEADERS
+        )
 
-    if response.status_code != 200:
-        print(f"Error: {response.status_code} - {response.text}")
-        return None
+        if response.status_code != 200:
+            print(f"Error: {response.status_code} - {response.text}")
+            return None
 
-    return response
+        return response
+
+    except Exception as e:
+        print(f"Error: {e.message}, sleeping for 5 minutes")
+        time.sleep(300)
 
 
 def read_query(query_file):
