@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+        "name": "freeCodeCamp",
+        "owner": "freeCodeCamp",
+        "pullRequests": 37520
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzQ5MTg5NQ==",
+        "name": "free-programming-books",
+        "owner": "EbookFoundation",
+        "pullRequests": 10142
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTczNzQ2NQ==",
+        "name": "awesome",
+        "owner": "sindresorhus",
+        "pullRequests": 2065
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1NDM0Njc5OQ==",
+        "name": "public-apis",
+        "owner": "public-apis",
+        "pullRequests": 3247
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2MDQ5MzEwMQ==",
+        "name": "coding-interview-university",
+        "owner": "jwasham",
+        "pullRequests": 995
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzI3NTA3MjQ=",
+        "name": "build-your-own-x",
+        "owner": "codecrafters-io",
+        "pullRequests": 416
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==",
+        "name": "developer-roadmap",
+        "owner": "kamranahmedse",
+        "pullRequests": 4378
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4MzIyMjQ0MQ==",
+        "name": "system-design-primer",
+        "owner": "donnemartin",
+        "pullRequests": 554
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNzc3MzY1MzM=",
+        "name": "996.ICU",
+        "owner": "996icu",
+        "pullRequests": 1984
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+        "name": "react",
+        "owner": "facebook",
+        "pullRequests": 16195
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTI4OTExMA==",
+        "name": "awesome-python",
+        "owner": "vinta",
+        "pullRequests": 1937
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMTczMDM0Mg==",
+        "name": "vue",
+        "owner": "vuejs",
+        "pullRequests": 2547
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4ODAxMTkwOA==",
+        "name": "project-based-learning",
+        "owner": "practical-tutorials",
+        "pullRequests": 423
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNjYzMzM3MA==",
+        "name": "awesome-selfhosted",
+        "owner": "awesome-selfhosted",
+        "pullRequests": 3036
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2MzQ3NjMzNw==",
+        "name": "Python",
+        "owner": "TheAlgorithms",
+        "pullRequests": 9889
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMjY1NzcyNjA=",
+        "name": "javascript-algorithms",
+        "owner": "trekhleb",
+        "pullRequests": 757
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0NTcxNzI1MA==",
+        "name": "tensorflow",
+        "owner": "tensorflow",
+        "pullRequests": 37080
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzI1Mjk4",
+        "name": "linux",
+        "owner": "torvalds",
+        "pullRequests": 926
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNDQ0MDI3MA==",
+        "name": "You-Dont-Know-JS",
+        "owner": "getify",
+        "pullRequests": 891
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMjEzOTU1MTA=",
+        "name": "CS-Notes",
+        "owner": "CyC2018",
+        "pullRequests": 613
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyOTExMzc=",
+        "name": "ohmyzsh",
+        "owner": "ohmyzsh",
+        "pullRequests": 7381
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxOTQxNTA2NA==",
+        "name": "computer-science",
+        "owner": "ossu",
+        "pullRequests": 440
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTI2MjQ0",
+        "name": "bootstrap",
+        "owner": "twbs",
+        "pullRequests": 15364
+    },
+    {
+        "id": "R_kgDOJKSTjA",
+        "name": "AutoGPT",
+        "owner": "Significant-Gravitas",
+        "pullRequests": 4399
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMTc5MjgyNA==",
+        "name": "flutter",
+        "owner": "flutter",
+        "pullRequests": 56303
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+        "name": "vscode",
+        "owner": "microsoft",
+        "pullRequests": 33353
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDYyODk3",
+        "name": "gitignore",
+        "owner": "github",
+        "pullRequests": 4424
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMjM0NTg1NTE=",
+        "name": "Python-100-Days",
+        "owner": "jackfrued",
+        "pullRequests": 341
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNTk1NTY2Ng==",
+        "name": "the-art-of-command-line",
+        "owner": "jlevy",
+        "pullRequests": 590
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=",
+        "name": "JavaGuide",
+        "owner": "Snailclimb",
+        "pullRequests": 1359
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzgzOTMxMzk=",
+        "name": "the-book-of-secret-knowledge",
+        "owner": "trimstray",
+        "pullRequests": 283
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2NDk4NDky",
+        "name": "javascript",
+        "owner": "airbnb",
+        "pullRequests": 1600
+    },
+    {
+        "id": "R_kgDOH3JoLw",
+        "name": "stable-diffusion-webui",
+        "owner": "AUTOMATIC1111",
+        "pullRequests": 3123
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTUyMjA2NDE=",
+        "name": "transformers",
+        "owner": "huggingface",
+        "pullRequests": 17737
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDM5NTIw",
+        "name": "youtube-dl",
+        "owner": "ytdl-org",
+        "pullRequests": 4944
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTU0MDc1OQ==",
+        "name": "awesome-go",
+        "owner": "avelino",
+        "pullRequests": 4649
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3MDEwNzc4Ng==",
+        "name": "next.js",
+        "owner": "vercel",
+        "pullRequests": 24292
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNDE1NzYyNzA=",
+        "name": "fucking-algorithm",
+        "owner": "labuladong",
+        "pullRequests": 503
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzA5Njk1OQ==",
+        "name": "go",
+        "owner": "golang",
+        "pullRequests": 4193
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMTI1MDcwODY=",
+        "name": "30-seconds-of-code",
+        "owner": "Chalarangelo",
+        "pullRequests": 1614
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==",
+        "name": "react-native",
+        "owner": "facebook",
+        "pullRequests": 19002
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2MjYwNzIyNw==",
+        "name": "tech-interview-handbook",
+        "owner": "yangshun",
+        "pullRequests": 546
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk5Mzg0MjY3",
+        "name": "electron",
+        "owner": "electron",
+        "pullRequests": 23255
+    },
+    {
+        "id": "R_kgDOIj6G7A",
+        "name": "awesome-chatgpt-prompts",
+        "owner": "f",
+        "pullRequests": 596
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNDA5ODA2OQ==",
+        "name": "free-programming-books-zh_CN",
+        "owner": "justjavac",
+        "pullRequests": 467
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxODQ0NTYyNTE=",
+        "name": "PowerToys",
+        "owner": "microsoft",
+        "pullRequests": 5535
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMDU4MDQ5OA==",
+        "name": "kubernetes",
+        "owner": "kubernetes",
+        "pullRequests": 81554
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMTE1ODM1OTM=",
+        "name": "scrcpy",
+        "owner": "Genymobile",
+        "pullRequests": 477
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk5NDMxNDk=",
+        "name": "d3",
+        "owner": "d3",
+        "pullRequests": 1184
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNzE5Mzc3OQ==",
+        "name": "node",
+        "owner": "nodejs",
+        "pullRequests": 34944
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzA4ODc0MA==",
+        "name": "axios",
+        "owner": "axios",
+        "pullRequests": 1696
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2MzUzNzI0OQ==",
+        "name": "create-react-app",
+        "owner": "facebook",
+        "pullRequests": 4286
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1NzYyMDE=",
+        "name": "three.js",
+        "owner": "mrdoob",
+        "pullRequests": 16843
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==",
+        "name": "TypeScript",
+        "owner": "microsoft",
+        "pullRequests": 18134
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDM2MzM5ODQ=",
+        "name": "nodebestpractices",
+        "owner": "goldbergyoni",
+        "pullRequests": 958
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMDY0NjI3NzY=",
+        "name": "GitHub-Chinese-Top-Charts",
+        "owner": "GrowingGit",
+        "pullRequests": 25
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzM0NzIxOTk=",
+        "name": "Microsoft-Activation-Scripts",
+        "owner": "massgravel",
+        "pullRequests": 35
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3MjQ3MTI=",
+        "name": "rust",
+        "owner": "rust-lang",
+        "pullRequests": 76371
+    },
+    {
+        "id": "R_kgDOIXtSqw",
+        "name": "hello-algo",
+        "owner": "krahets",
+        "pullRequests": 1063
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNDE5NTMzOQ==",
+        "name": "angular",
+        "owner": "angular",
+        "pullRequests": 28420
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDAwNjA5MTI=",
+        "name": "terminal",
+        "owner": "microsoft",
+        "pullRequests": 4456
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzM0NDIzODQ=",
+        "name": "deno",
+        "owner": "denoland",
+        "pullRequests": 13991
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzA4MzE1Ng==",
+        "name": "material-ui",
+        "owner": "mui",
+        "pullRequests": 23382
+    },
+    {
+        "id": "R_kgDOIPDwlg",
+        "name": "langchain",
+        "owner": "langchain-ai",
+        "pullRequests": 15416
+    },
+    {
+        "id": "R_kgDOJ0Z1Pg",
+        "name": "ollama",
+        "owner": "ollama",
+        "pullRequests": 2417
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==",
+        "name": "ant-design",
+        "owner": "ant-design",
+        "pullRequests": 18231
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1ODAyODAzOA==",
+        "name": "HelloGitHub",
+        "owner": "521xueweihan",
+        "pullRequests": 44
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3NDc5MTM2Ng==",
+        "name": "clean-code-javascript",
+        "owner": "ryanmcdermott",
+        "pullRequests": 289
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTYzNDk4MQ==",
+        "name": "godot",
+        "owner": "godotengine",
+        "pullRequests": 44128
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMjc5MDQ4OA==",
+        "name": "java-design-patterns",
+        "owner": "iluwatar",
+        "pullRequests": 2083
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjQ4NDM4MQ==",
+        "name": "free-for-dev",
+        "owner": "ripienaar",
+        "pullRequests": 3373
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk5MDc5NjY2Mw==",
+        "name": "puppeteer",
+        "owner": "puppeteer",
+        "pullRequests": 6086
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4ODQ2NDcwNA==",
+        "name": "vue-element-admin",
+        "owner": "PanJiaChen",
+        "pullRequests": 586
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTIwNDg2MA==",
+        "name": "papers-we-love",
+        "owner": "papers-we-love",
+        "pullRequests": 517
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0ODM3ODk0Nw==",
+        "name": "frp",
+        "owner": "fatedier",
+        "pullRequests": 897
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTc2MTY4ODA=",
+        "name": "iptv",
+        "owner": "iptv-org",
+        "pullRequests": 7110
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMzYxNDMwNA==",
+        "name": "thefuck",
+        "owner": "nvbn",
+        "pullRequests": 700
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMDcyNjAyMDU=",
+        "name": "yt-dlp",
+        "owner": "yt-dlp",
+        "pullRequests": 3122
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1NDE3MzU5Mw==",
+        "name": "storybook",
+        "owner": "storybookjs",
+        "pullRequests": 12861
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1NTA3NjA2Mw==",
+        "name": "Awesome-Hacking",
+        "owner": "Hack-with-Github",
+        "pullRequests": 108
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMTE1MjU3OTg=",
+        "name": "Web-Dev-For-Beginners",
+        "owner": "microsoft",
+        "pullRequests": 871
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxOTY3MDE2MTk=",
+        "name": "tauri",
+        "owner": "tauri-apps",
+        "pullRequests": 4979
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDEyOTY4ODE=",
+        "name": "every-programmer-should-know",
+        "owner": "mtdvio",
+        "pullRequests": 169
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==",
+        "name": "pytorch",
+        "owner": "pytorch",
+        "pullRequests": 91792
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzEyODM0NTI=",
+        "name": "excalidraw",
+        "owner": "excalidraw",
+        "pullRequests": 4698
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNjQwODk5Mg==",
+        "name": "neovim",
+        "owner": "neovim",
+        "pullRequests": 18469
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDYwMTczNDM=",
+        "name": "tailwindcss",
+        "owner": "tailwindlabs",
+        "pullRequests": 2910
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNTYxNTgy",
+        "name": "animate.css",
+        "owner": "animate-css",
+        "pullRequests": 906
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1MjYzMTg0MQ==",
+        "name": "realworld",
+        "owner": "gothinkster",
+        "pullRequests": 850
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNzI1NjI0NzU=",
+        "name": "app-ideas",
+        "owner": "florinpop17",
+        "pullRequests": 683
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0MTY0NDgy",
+        "name": "django",
+        "owner": "django",
+        "pullRequests": 18605
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2MTIyMzA=",
+        "name": "nvm",
+        "owner": "nvm-sh",
+        "pullRequests": 1079
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMTgxOTI3",
+        "name": "bitcoin",
+        "owner": "bitcoin",
+        "pullRequests": 21401
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3NDI5MzMyMQ==",
+        "name": "svelte",
+        "owner": "sveltejs",
+        "pullRequests": 5926
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1MTA4MDUx",
+        "name": "opencv",
+        "owner": "opencv",
+        "pullRequests": 15337
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxODYzMzI5",
+        "name": "laravel",
+        "owner": "laravel",
+        "pullRequests": 4803
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMDkwNDQzNw==",
+        "name": "gin",
+        "owner": "gin-gonic",
+        "pullRequests": 1800
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMjc5ODgwMTE=",
+        "name": "mall",
+        "owner": "macrozheng",
+        "pullRequests": 121
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1MTExNzgzNw==",
+        "name": "models",
+        "owner": "tensorflow",
+        "pullRequests": 3822
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNjUwMDc4Nw==",
+        "name": "FiraCode",
+        "owner": "tonsky",
+        "pullRequests": 188
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNjA5MTkxMTk=",
+        "name": "fastapi",
+        "owner": "fastapi",
+        "pullRequests": 3621
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTE4MzQwNjI=",
+        "name": "advanced-java",
+        "owner": "doocs",
+        "pullRequests": 128
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2MzUzOTA1NQ==",
+        "name": "awesome-mac",
+        "owner": "jaywcjlove",
+        "pullRequests": 1043
+    },
+    {
+        "id": "R_kgDOJH-jmg",
+        "name": "ChatGPT-Next-Web",
+        "owner": "ChatGPTNextWeb",
+        "pullRequests": 2167
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNjA2NDAwOTQ=",
+        "name": "LeetCodeAnimation",
+        "owner": "MisterBooo",
+        "pullRequests": 76
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMTE4MDY4Nw==",
+        "name": "hugo",
+        "owner": "gohugoio",
+        "pullRequests": 5352
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2Mjk2Nzkw",
+        "name": "spring-boot",
+        "owner": "spring-projects",
+        "pullRequests": 6432
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyOTkzNTQyMDc=",
+        "name": "rustdesk",
+        "owner": "rustdesk",
+        "pullRequests": 3463
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNTc3Mjg5Njk=",
+        "name": "bun",
+        "owner": "oven-sh",
+        "pullRequests": 4885
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNDcwNDcx",
+        "name": "Font-Awesome",
+        "owner": "FortAwesome",
+        "pullRequests": 693
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNDc0NzU5OA==",
+        "name": "json-server",
+        "owner": "typicode",
+        "pullRequests": 406
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTQ1ODcxOTM=",
+        "name": "supabase",
+        "owner": "supabase",
+        "pullRequests": 11851
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMjg4ODk5Mw==",
+        "name": "core",
+        "owner": "home-assistant",
+        "pullRequests": 74611
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0NDU3MTcxOA==",
+        "name": "awesome-vue",
+        "owner": "vuejs",
+        "pullRequests": 3899
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==",
+        "name": "netdata",
+        "owner": "netdata",
+        "pullRequests": 10311
+    },
+    {
+        "id": "R_kgDOIuCgEw",
+        "name": "ui",
+        "owner": "shadcn-ui",
+        "pullRequests": 1514
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNjA2NjcyNw==",
+        "name": "mermaid",
+        "owner": "mermaid-js",
+        "pullRequests": 2657
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0NzAxODIzOQ==",
+        "name": "awesome-interview-questions",
+        "owner": "DopplerHQ",
+        "pullRequests": 233
+    },
+    {
+        "id": "R_kgDOJPPS-Q",
+        "name": "gpt4all",
+        "owner": "nomic-ai",
+        "pullRequests": 1014
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1MDc3NzU=",
+        "name": "elasticsearch",
+        "owner": "elastic",
+        "pullRequests": 77681
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNDM5NjUxMzI=",
+        "name": "ML-For-Beginners",
+        "owner": "microsoft",
+        "pullRequests": 502
+    },
+    {
+        "id": "R_kgDOIAstBQ",
+        "name": "whisper",
+        "owner": "openai",
+        "pullRequests": 255
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDcxMTE0MjE=",
+        "name": "Front-End-Checklist",
+        "owner": "thedaviddias",
+        "pullRequests": 301
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNzgzMzUyNzM=",
+        "name": "github-readme-stats",
+        "owner": "anuraghazra",
+        "pullRequests": 2339
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3NjkxNjMx",
+        "name": "moby",
+        "owner": "moby",
+        "pullRequests": 25381
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0NDg4MjIwMQ==",
+        "name": "awesome-for-beginners",
+        "owner": "MunGell",
+        "pullRequests": 1276
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNDU1NTM2NzI=",
+        "name": "funNLP",
+        "owner": "fighting41love",
+        "pullRequests": 26
+    },
+    {
+        "id": "R_kgDOI4f-vw",
+        "name": "node",
+        "owner": "base-org",
+        "pullRequests": 155
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNzI5NTM4NDU=",
+        "name": "code-server",
+        "owner": "coder",
+        "pullRequests": 1891
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxOTk1NzAwNzE=",
+        "name": "v2rayN",
+        "owner": "2dust",
+        "pullRequests": 295
+    },
+    {
+        "id": "R_kgDOHzIiIA",
+        "name": "stable-diffusion",
+        "owner": "CompVis",
+        "pullRequests": 148
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNTc0ODU0MjI=",
+        "name": "vite",
+        "owner": "vitejs",
+        "pullRequests": 6158
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1OTY4OTI=",
+        "name": "flask",
+        "owner": "pallets",
+        "pullRequests": 2587
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxODYxNDU4",
+        "name": "reveal.js",
+        "owner": "hakimel",
+        "pullRequests": 1077
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0NDgzODk0OQ==",
+        "name": "swift",
+        "owner": "swiftlang",
+        "pullRequests": 57604
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4MDk0NTQyOA==",
+        "name": "nest",
+        "owner": "nestjs",
+        "pullRequests": 8318
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3MTU4MzYwMg==",
+        "name": "cs-video-courses",
+        "owner": "Developer-Y",
+        "pullRequests": 199
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNDM5NTA0MDg=",
+        "name": "HowToCook",
+        "owner": "Anduin2017",
+        "pullRequests": 697
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTYwMTg=",
+        "name": "redis",
+        "owner": "redis",
+        "pullRequests": 6706
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTI2MzkwNzE=",
+        "name": "devops-exercises",
+        "owner": "bregman-arie",
+        "pullRequests": 369
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMjE5ODE4OTE=",
+        "name": "playwright",
+        "owner": "microsoft",
+        "pullRequests": 15161
+    },
+    {
+        "id": "R_kgDOJH_K4A",
+        "name": "llama.cpp",
+        "owner": "ggerganov",
+        "pullRequests": 4332
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTg3MjM5Mg==",
+        "name": "awesome-machine-learning",
+        "owner": "josephmisiti",
+        "pullRequests": 902
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzM1NzU4OA==",
+        "name": "protobuf",
+        "owner": "protocolbuffers",
+        "pullRequests": 12265
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMzcxNTk=",
+        "name": "express",
+        "owner": "expressjs",
+        "pullRequests": 1590
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMjY3MDg1Nw==",
+        "name": "awesome-react",
+        "owner": "enaqx",
+        "pullRequests": 1298
+    },
+    {
+        "id": "R_kgDOJL0ZtQ",
+        "name": "gpt_academic",
+        "owner": "binary-husky",
+        "pullRequests": 303
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNjc4NzMx",
+        "name": "webpack",
+        "owner": "webpack",
+        "pullRequests": 7000
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4ODQzNjgz",
+        "name": "Chart.js",
+        "owner": "chartjs",
+        "pullRequests": 3821
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNDcxMjg1MA==",
+        "name": "syncthing",
+        "owner": "syncthing",
+        "pullRequests": 4208
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzgwNzYwNg==",
+        "name": "fzf",
+        "owner": "junegunn",
+        "pullRequests": 940
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNTExMTgyMQ==",
+        "name": "grafana",
+        "owner": "grafana",
+        "pullRequests": 54264
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMDM1ODc3NDQ=",
+        "name": "hoppscotch",
+        "owner": "hoppscotch",
+        "pullRequests": 2437
+    },
+    {
+        "id": "R_kgDOJxbR3A",
+        "name": "generative-ai-for-beginners",
+        "owner": "microsoft",
+        "pullRequests": 385
+    },
+    {
+        "id": "R_kgDOKVORZg",
+        "name": "system-design-101",
+        "owner": "ByteByteGoHq",
+        "pullRequests": 38
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4MTk3NTM3Mg==",
+        "name": "interviews",
+        "owner": "kdn251",
+        "pullRequests": 172
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNDczNTA0NjM=",
+        "name": "33-js-concepts",
+        "owner": "leonardomso",
+        "pullRequests": 435
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0MzQ0MTQwMw==",
+        "name": "strapi",
+        "owner": "strapi",
+        "pullRequests": 10756
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjY4OTg2Mw==",
+        "name": "manim",
+        "owner": "3b1b",
+        "pullRequests": 817
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==",
+        "name": "cpython",
+        "owner": "python",
+        "pullRequests": 55030
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMzExMDcwMTg=",
+        "name": "sway",
+        "owner": "FuelLabs",
+        "pullRequests": 3548
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxOTE1Mjk3MzI=",
+        "name": "javascript-questions",
+        "owner": "lydiahallie",
+        "pullRequests": 531
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNjM4OTY0",
+        "name": "ansible",
+        "owner": "ansible",
+        "pullRequests": 51289
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzOTQ2NDAxOA==",
+        "name": "superset",
+        "owner": "apache",
+        "pullRequests": 16892
+    },
+    {
+        "id": "R_kgDOJPJM2Q",
+        "name": "the-algorithm",
+        "owner": "twitter",
+        "pullRequests": 532
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNDYzMzU5ODc=",
+        "name": "Ventoy",
+        "owner": "ventoy",
+        "pullRequests": 482
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMDExMzgzMTU=",
+        "name": "d2l-zh",
+        "owner": "d2l-ai",
+        "pullRequests": 1341
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzM0MzY5",
+        "name": "resume.github.com",
+        "owner": "resume",
+        "pullRequests": 184
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMzAxNTU4Mw==",
+        "name": "keras",
+        "owner": "keras-team",
+        "pullRequests": 7477
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMjg4NzA5NA==",
+        "name": "tesseract",
+        "owner": "tesseract-ocr",
+        "pullRequests": 1635
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4Mzk5OTcwMA==",
+        "name": "Best-websites-a-programmer-should-visit",
+        "owner": "sdmg15",
+        "pullRequests": 1759
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk1NTc5ODA=",
+        "name": "socket.io",
+        "owner": "socketio",
+        "pullRequests": 867
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNjUzNTE1Ng==",
+        "name": "redux",
+        "owner": "reduxjs",
+        "pullRequests": 2550
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3MTIyMDc1Nw==",
+        "name": "PayloadsAllTheThings",
+        "owner": "swisskyrepo",
+        "pullRequests": 651
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMjA1MzgzMDQ=",
+        "name": "nocode",
+        "owner": "kelseyhightower",
+        "pullRequests": 625
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNjg5ODg3OQ==",
+        "name": "awesome-public-datasets",
+        "owner": "awesomedata",
+        "pullRequests": 341
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMjA2NzUyMQ==",
+        "name": "imgui",
+        "owner": "ocornut",
+        "pullRequests": 1384
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk5MTg1Nzky",
+        "name": "echarts",
+        "owner": "apache",
+        "pullRequests": 1857
+    },
+    {
+        "id": "R_kgDOJQK9zA",
+        "name": "gpt4free",
+        "owner": "xtekky",
+        "pullRequests": 727
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjI4NTA1",
+        "name": "atom",
+        "owner": "atom",
+        "pullRequests": 5280
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzOTU1NjQ3",
+        "name": "lodash",
+        "owner": "lodash",
+        "pullRequests": 1424
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk4NDMyMjI=",
+        "name": "scikit-learn",
+        "owner": "scikit-learn",
+        "pullRequests": 17851
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMjgzOTg2MzY=",
+        "name": "architect-awesome",
+        "owner": "xingshaocheng",
+        "pullRequests": 81
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0MzExNzk2",
+        "name": "markdown-here",
+        "owner": "adam-p",
+        "pullRequests": 82
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkzNDAyNTM3",
+        "name": "Front-end-Developer-Interview-Questions",
+        "owner": "h5bp",
+        "pullRequests": 708
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMzIzMzE1OA==",
+        "name": "obs-studio",
+        "owner": "obsproject",
+        "pullRequests": 6872
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk2MzQ3NzY2MA==",
+        "name": "Java",
+        "owner": "TheAlgorithms",
+        "pullRequests": 4383
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNjI5OTg0Nzk=",
+        "name": "sherlock",
+        "owner": "sherlock-project",
+        "pullRequests": 1139
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTkzNTAzMQ==",
+        "name": "awesome-cpp",
+        "owner": "fffaraz",
+        "pullRequests": 960
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxNjcxNzQ=",
+        "name": "jquery",
+        "owner": "jquery",
+        "pullRequests": 3037
+    },
+    {
+        "id": "R_kgDOG-3nPA",
+        "name": "openai-cookbook",
+        "owner": "openai",
+        "pullRequests": 871
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk0NjAwNzg=",
+        "name": "angular.js",
+        "owner": "angular",
+        "pullRequests": 7995
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3NzIxMzEyMA==",
+        "name": "tabby",
+        "owner": "Eugeny",
+        "pullRequests": 3974
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyNjE3ODc3NTg=",
+        "name": "design-resources-for-developers",
+        "owner": "bradtraversy",
+        "pullRequests": 1338
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxMTU0Nzg4MjA=",
+        "name": "awesome-scalability",
+        "owner": "binhnguyennus",
+        "pullRequests": 92
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnk3NjAwNDA5",
+        "name": "shadowsocks-windows",
+        "owner": "shadowsocks",
+        "pullRequests": 490
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyMTczNzI2Ng==",
+        "name": "awesome-nodejs",
+        "owner": "sindresorhus",
+        "pullRequests": 1120
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyOTA4ODI3ODc=",
+        "name": "fuel-core",
+        "owner": "FuelLabs",
+        "pullRequests": 1398
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkyOTIwNzYyMQ==",
+        "name": "caddy",
+        "owner": "caddyserver",
+        "pullRequests": 2418
+    },
+    {
+        "id": "MDEwOlJlcG9zaXRvcnkxODQwODYzNQ==",
+        "name": "Apollo-11",
+        "owner": "chrislgarry",
+        "pullRequests": 515
+    }
+]

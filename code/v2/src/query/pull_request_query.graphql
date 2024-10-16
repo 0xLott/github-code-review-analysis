@@ -1,0 +1,38 @@
+query ($repo_name: String!, $repo_owner: String!, $pull_request_num: Int, $cursor: String) {
+  repository(name: $repo_name, owner: $repo_owner) {
+      name
+      owner {
+          login
+      }
+      pullRequests(first: $pull_request_num, after: $cursor, states: [MERGED, CLOSED]) {
+          nodes {
+              state
+              createdAt
+              closedAt
+              updatedAt
+              mergedAt
+              changedFiles
+              deletions
+              additions
+              title
+              author {
+                  login
+              }
+              participants {
+                  totalCount
+              }
+              commits {
+                  totalCount
+              }
+              reviews {
+                  totalCount
+              }
+          }
+          pageInfo {
+              endCursor
+              hasNextPage
+              hasPreviousPage
+            }
+        }
+    }
+}

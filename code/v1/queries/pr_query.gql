@@ -1,0 +1,30 @@
+query ($num_repos: Int!, $num_prs: Int!, $cursor: String) {
+  search(
+    query: "stars:>1 sort:stars-desc"
+    type: REPOSITORY
+    first: $num_repos
+    after: $cursor
+  ) {
+    edges {
+      node {
+        ... on Repository {
+          id
+          pullRequests(first: $num_prs, states: [MERGED, CLOSED]) {
+            nodes {
+              state
+              reviews {
+                totalCount
+              }
+            }
+            totalCount
+          }
+        }
+      }
+    }
+    pageInfo {
+      endCursor
+      hasNextPage
+      hasPreviousPage
+    }
+  }
+}
