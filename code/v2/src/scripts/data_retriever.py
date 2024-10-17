@@ -14,27 +14,40 @@ GITHUB_HEADERS = {
     "Content-Type": "application/json"
 }
 
+max_retries = 5
+retry_delay = 60
+
 
 def dispatch_request(query, variables):
-    try:
-        response = requests.post(
-            GITHUB_API_URL,
-            json={
-                "query": query,
-                "variables": variables
-            },
-            headers=GITHUB_HEADERS
-        )
+    retries = 0
 
-        if response.status_code != 200:
-            print(f"Error: {response.status_code} - {response.text}")
-            return None
+    while retries < max_retries:
+        try:
+            response = requests.post(
+                GITHUB_API_URL,
+                json={
+                    "query": query,
+                    "variables": variables
+                },
+                headers=GITHUB_HEADERS,
+                timeout=10
+            )
 
-        return response
+            if response.status_code != 200:
+                print(f"Error: {response.status_code} - {response.text}")
+                retries += 1
+                time.sleep(retry_delay)
+                continue
 
-    except Exception as e:
-        print(f"Error: {e.message}, sleeping for 5 minutes")
-        time.sleep(300)
+            return response
+
+        except Exception:
+            print(f"Error in request, retrying after 1 minute... Attempt {retries}/{max_retries}")
+            retries += 1
+            time.sleep(retry_delay)
+
+    print(f"Failed request after {max_retries} attempts")
+    return None
 
 
 def read_query(query_file):

@@ -46,15 +46,14 @@ def pull_requests_data_function(data):
                 'state': pull_request['state'],
                 'createAt': str(pull_request['createdAt']),
                 'closetAt': str(pull_request['closedAt']),
-                'updatedAt': str(pull_request['updatedAt']),
                 'mergedAt': str(pull_request['mergedAt']),
-                'ChangedFiles': str(pull_request['changedFiles']),
-                'Deletions': str(pull_request['deletions']),
-                'Additions': str(pull_request['additions']),
-                'Title': str(pull_request['title']),
-                'ParticipantsCount': pull_request['participants']['totalCount'],
-                'CommitsCount': pull_request['commits']['totalCount'],
-                'ReviewsCount': pull_request['reviews']['totalCount'],
+                'changedFiles': pull_request['changedFiles'],
+                'deletions': pull_request['deletions'],
+                'additions': pull_request['additions'],
+                'description': str(pull_request['body']),
+                'participantsCount': pull_request['participants']['totalCount'],
+                'commentsCount': pull_request['comments']['totalCount'],
+                'reviewsCount': pull_request['reviews']['totalCount'],
             }
 
             file_manager.save_to_json(pull_requests_dataset_file, pull_request_data)

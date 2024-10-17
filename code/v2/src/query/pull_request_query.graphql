@@ -9,19 +9,18 @@ query ($repo_name: String!, $repo_owner: String!, $pull_request_num: Int, $curso
               state
               createdAt
               closedAt
-              updatedAt
               mergedAt
               changedFiles
               deletions
               additions
-              title
+              body
               author {
                   login
               }
               participants {
                   totalCount
               }
-              commits {
+              comments {
                   totalCount
               }
               reviews {
