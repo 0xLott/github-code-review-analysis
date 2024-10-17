@@ -34,5 +34,464 @@
         "pullRequestsCount": 3258,
         "nextPageCursor": "Y3Vyc29yOjQ=",
         "createdAt": "2024-10-16 21:55:29.560391"
+    },
+    {
+        "objectId": "7da74904-65ba-4ac6-ba37-eb4fec9b571d",
+        "name": "coding-interview-university",
+        "owner": "jwasham",
+        "stargazers": 305769,
+        "pullRequestsCount": 997,
+        "nextPageCursor": "Y3Vyc29yOjU=",
+        "createdAt": "2024-10-17 18:00:37.701742"
+    },
+    {
+        "objectId": "f5e519d7-2027-4774-af59-7ef065c48235",
+        "name": "build-your-own-x",
+        "owner": "codecrafters-io",
+        "stargazers": 304590,
+        "pullRequestsCount": 417,
+        "nextPageCursor": "Y3Vyc29yOjY=",
+        "createdAt": "2024-10-17 18:00:38.370944"
+    },
+    {
+        "objectId": "de481b6a-8006-4e11-bf52-404c48e88059",
+        "name": "developer-roadmap",
+        "owner": "kamranahmedse",
+        "stargazers": 294644,
+        "pullRequestsCount": 4439,
+        "nextPageCursor": "Y3Vyc29yOjc=",
+        "createdAt": "2024-10-17 18:00:39.137033"
+    },
+    {
+        "objectId": "e6d7d8be-7de0-4778-b89d-c66aaecbd7d4",
+        "name": "system-design-primer",
+        "owner": "donnemartin",
+        "stargazers": 272818,
+        "pullRequestsCount": 556,
+        "nextPageCursor": "Y3Vyc29yOjg=",
+        "createdAt": "2024-10-17 18:00:39.911583"
+    },
+    {
+        "objectId": "056ae1f5-3f71-4bb1-9ae9-4a3d3cad13fd",
+        "name": "996.ICU",
+        "owner": "996icu",
+        "stargazers": 269803,
+        "pullRequestsCount": 1984,
+        "nextPageCursor": "Y3Vyc29yOjk=",
+        "createdAt": "2024-10-17 18:00:40.583885"
+    },
+    {
+        "objectId": "b5fee076-1e23-4bc5-ad31-d9f8b301fc5c",
+        "name": "react",
+        "owner": "facebook",
+        "stargazers": 228409,
+        "pullRequestsCount": 16237,
+        "nextPageCursor": "Y3Vyc29yOjEw",
+        "createdAt": "2024-10-17 18:00:41.270047"
+    },
+    {
+        "objectId": "9eba0b08-8825-4260-b0e5-b6c4d352e77f",
+        "name": "awesome-python",
+        "owner": "vinta",
+        "stargazers": 221872,
+        "pullRequestsCount": 1939,
+        "nextPageCursor": "Y3Vyc29yOjEx",
+        "createdAt": "2024-10-17 18:00:42.121339"
+    },
+    {
+        "objectId": "6842f1f0-f116-47f3-af3c-e73c424c2fef",
+        "name": "vue",
+        "owner": "vuejs",
+        "stargazers": 207829,
+        "pullRequestsCount": 2550,
+        "nextPageCursor": "Y3Vyc29yOjEy",
+        "createdAt": "2024-10-17 18:00:42.761097"
+    },
+    {
+        "objectId": "ec04f0b7-e563-41f5-8b74-d637ac252fa6",
+        "name": "project-based-learning",
+        "owner": "practical-tutorials",
+        "stargazers": 201156,
+        "pullRequestsCount": 427,
+        "nextPageCursor": "Y3Vyc29yOjEz",
+        "createdAt": "2024-10-17 18:00:43.401385"
+    },
+    {
+        "objectId": "09625065-b228-4827-911c-eef84638979b",
+        "name": "awesome-selfhosted",
+        "owner": "awesome-selfhosted",
+        "stargazers": 199103,
+        "pullRequestsCount": 3037,
+        "nextPageCursor": "Y3Vyc29yOjE0",
+        "createdAt": "2024-10-17 18:00:44.033887"
+    },
+    {
+        "objectId": "7b00d8c6-0c0d-4c1a-b1db-0c86798ca4be",
+        "name": "Python",
+        "owner": "TheAlgorithms",
+        "stargazers": 191851,
+        "pullRequestsCount": 10041,
+        "nextPageCursor": "Y3Vyc29yOjE1",
+        "createdAt": "2024-10-17 18:00:44.737272"
+    },
+    {
+        "objectId": "5dd3cd38-c85b-430d-9503-59df1e342cbc",
+        "name": "javascript-algorithms",
+        "owner": "trekhleb",
+        "stargazers": 187941,
+        "pullRequestsCount": 758,
+        "nextPageCursor": "Y3Vyc29yOjE2",
+        "createdAt": "2024-10-17 18:00:45.405021"
+    },
+    {
+        "objectId": "0e46b68f-564d-4a6f-857a-b234b5f7402f",
+        "name": "tensorflow",
+        "owner": "tensorflow",
+        "stargazers": 186077,
+        "pullRequestsCount": 37580,
+        "nextPageCursor": "Y3Vyc29yOjE3",
+        "createdAt": "2024-10-17 18:00:46.151914"
+    },
+    {
+        "objectId": "5f7e78fb-64a2-4e96-8006-99fa9c49edef",
+        "name": "linux",
+        "owner": "torvalds",
+        "stargazers": 180542,
+        "pullRequestsCount": 931,
+        "nextPageCursor": "Y3Vyc29yOjE4",
+        "createdAt": "2024-10-17 18:00:46.829976"
+    },
+    {
+        "objectId": "7537ef90-0748-4aa2-b403-82308b4fbf76",
+        "name": "You-Dont-Know-JS",
+        "owner": "getify",
+        "stargazers": 179465,
+        "pullRequestsCount": 892,
+        "nextPageCursor": "Y3Vyc29yOjE5",
+        "createdAt": "2024-10-17 18:00:47.492106"
+    },
+    {
+        "objectId": "8a24de5e-96e2-41d3-8ec0-aa24db0f6f90",
+        "name": "CS-Notes",
+        "owner": "CyC2018",
+        "stargazers": 176041,
+        "pullRequestsCount": 615,
+        "nextPageCursor": "Y3Vyc29yOjIw",
+        "createdAt": "2024-10-17 18:00:48.214302"
+    },
+    {
+        "objectId": "e4649e0f-c9b5-444e-9258-c6c99b8a7fe4",
+        "name": "ohmyzsh",
+        "owner": "ohmyzsh",
+        "stargazers": 173281,
+        "pullRequestsCount": 7398,
+        "nextPageCursor": "Y3Vyc29yOjIx",
+        "createdAt": "2024-10-17 18:00:48.921381"
+    },
+    {
+        "objectId": "910022dd-e53c-45d5-86b1-77ca15fb3c5c",
+        "name": "computer-science",
+        "owner": "ossu",
+        "stargazers": 171443,
+        "pullRequestsCount": 442,
+        "nextPageCursor": "Y3Vyc29yOjIy",
+        "createdAt": "2024-10-17 18:00:49.633294"
+    },
+    {
+        "objectId": "5da8e159-2b77-4fb7-ab84-3947cf34dbeb",
+        "name": "bootstrap",
+        "owner": "twbs",
+        "stargazers": 170454,
+        "pullRequestsCount": 15376,
+        "nextPageCursor": "Y3Vyc29yOjIz",
+        "createdAt": "2024-10-17 18:00:50.387960"
+    },
+    {
+        "objectId": "a6b2535d-2d0e-4fa1-abf5-8e28d0294932",
+        "name": "AutoGPT",
+        "owner": "Significant-Gravitas",
+        "stargazers": 167576,
+        "pullRequestsCount": 4430,
+        "nextPageCursor": "Y3Vyc29yOjI0",
+        "createdAt": "2024-10-17 18:00:51.037699"
+    },
+    {
+        "objectId": "32fe98e0-f8c4-48b9-ab0c-e2eb059a5adb",
+        "name": "flutter",
+        "owner": "flutter",
+        "stargazers": 165526,
+        "pullRequestsCount": 56439,
+        "nextPageCursor": "Y3Vyc29yOjI1",
+        "createdAt": "2024-10-17 18:00:51.804396"
+    },
+    {
+        "objectId": "d56286d2-8c09-4996-8901-c9498cad01ea",
+        "name": "vscode",
+        "owner": "microsoft",
+        "stargazers": 163510,
+        "pullRequestsCount": 33513,
+        "nextPageCursor": "Y3Vyc29yOjI2",
+        "createdAt": "2024-10-17 18:00:52.525564"
+    },
+    {
+        "objectId": "32d2c3f8-f4b9-45b3-b2fe-3044f7a78f7d",
+        "name": "gitignore",
+        "owner": "github",
+        "stargazers": 161805,
+        "pullRequestsCount": 4432,
+        "nextPageCursor": "Y3Vyc29yOjI3",
+        "createdAt": "2024-10-17 18:00:53.251862"
+    },
+    {
+        "objectId": "540db16e-57db-4a69-ada5-0c34bf728dfc",
+        "name": "Python-100-Days",
+        "owner": "jackfrued",
+        "stargazers": 155729,
+        "pullRequestsCount": 343,
+        "nextPageCursor": "Y3Vyc29yOjI4",
+        "createdAt": "2024-10-17 18:00:53.975418"
+    },
+    {
+        "objectId": "90b86bbf-2be3-46f7-88d4-75d0efaef85e",
+        "name": "the-art-of-command-line",
+        "owner": "jlevy",
+        "stargazers": 153260,
+        "pullRequestsCount": 591,
+        "nextPageCursor": "Y3Vyc29yOjI5",
+        "createdAt": "2024-10-17 18:00:54.859009"
+    },
+    {
+        "objectId": "1416549b-aa54-4b7c-8a0d-b2d78ca99a33",
+        "name": "JavaGuide",
+        "owner": "Snailclimb",
+        "stargazers": 146420,
+        "pullRequestsCount": 1366,
+        "nextPageCursor": "Y3Vyc29yOjMw",
+        "createdAt": "2024-10-17 18:00:55.529908"
+    },
+    {
+        "objectId": "ae7ff188-27c9-414f-adf7-c1ca6f87ed66",
+        "name": "the-book-of-secret-knowledge",
+        "owner": "trimstray",
+        "stargazers": 146257,
+        "pullRequestsCount": 284,
+        "nextPageCursor": "Y3Vyc29yOjMx",
+        "createdAt": "2024-10-17 18:00:56.330523"
+    },
+    {
+        "objectId": "c9ba5e0e-97d5-4fbe-8d29-da77dfb61faa",
+        "name": "javascript",
+        "owner": "airbnb",
+        "stargazers": 145024,
+        "pullRequestsCount": 1604,
+        "nextPageCursor": "Y3Vyc29yOjMy",
+        "createdAt": "2024-10-17 18:00:57.062862"
+    },
+    {
+        "objectId": "faf43cf4-917e-4113-87b9-2225167262f8",
+        "name": "stable-diffusion-webui",
+        "owner": "AUTOMATIC1111",
+        "stargazers": 141313,
+        "pullRequestsCount": 3132,
+        "nextPageCursor": "Y3Vyc29yOjMz",
+        "createdAt": "2024-10-17 18:00:57.796878"
+    },
+    {
+        "objectId": "885d487a-0035-4f54-a329-fa7a40162245",
+        "name": "transformers",
+        "owner": "huggingface",
+        "stargazers": 133524,
+        "pullRequestsCount": 17814,
+        "nextPageCursor": "Y3Vyc29yOjM0",
+        "createdAt": "2024-10-17 18:00:58.553161"
+    },
+    {
+        "objectId": "be7eb9bb-459a-481d-aa10-c9957fbba9af",
+        "name": "youtube-dl",
+        "owner": "ytdl-org",
+        "stargazers": 131887,
+        "pullRequestsCount": 4946,
+        "nextPageCursor": "Y3Vyc29yOjM1",
+        "createdAt": "2024-10-17 18:00:59.355800"
+    },
+    {
+        "objectId": "d58fe00e-8e92-4f4b-9a31-d6d80f1143ad",
+        "name": "awesome-go",
+        "owner": "avelino",
+        "stargazers": 130788,
+        "pullRequestsCount": 4661,
+        "nextPageCursor": "Y3Vyc29yOjM2",
+        "createdAt": "2024-10-17 18:01:00.112891"
+    },
+    {
+        "objectId": "28534fa9-f016-4ece-aad4-b00b05c1e3f2",
+        "name": "next.js",
+        "owner": "vercel",
+        "stargazers": 125855,
+        "pullRequestsCount": 24529,
+        "nextPageCursor": "Y3Vyc29yOjM3",
+        "createdAt": "2024-10-17 18:01:00.859261"
+    },
+    {
+        "objectId": "84063b8f-0f59-4ee8-875c-5d4e947c736a",
+        "name": "fucking-algorithm",
+        "owner": "labuladong",
+        "stargazers": 125451,
+        "pullRequestsCount": 503,
+        "nextPageCursor": "Y3Vyc29yOjM4",
+        "createdAt": "2024-10-17 18:01:01.618976"
+    },
+    {
+        "objectId": "7cbac61c-dc5f-4aeb-9176-8568e04a1115",
+        "name": "go",
+        "owner": "golang",
+        "stargazers": 123550,
+        "pullRequestsCount": 4208,
+        "nextPageCursor": "Y3Vyc29yOjM5",
+        "createdAt": "2024-10-17 18:01:02.291880"
+    },
+    {
+        "objectId": "18675877-dcfe-4f1b-81b1-b5f2bbafad7c",
+        "name": "30-seconds-of-code",
+        "owner": "Chalarangelo",
+        "stargazers": 121510,
+        "pullRequestsCount": 1615,
+        "nextPageCursor": "Y3Vyc29yOjQw",
+        "createdAt": "2024-10-17 18:01:03.008850"
+    },
+    {
+        "objectId": "24f6c1e8-d818-44f3-a41e-fa877cc92b79",
+        "name": "react-native",
+        "owner": "facebook",
+        "stargazers": 118739,
+        "pullRequestsCount": 19108,
+        "nextPageCursor": "Y3Vyc29yOjQx",
+        "createdAt": "2024-10-17 18:01:03.971766"
+    },
+    {
+        "objectId": "787ecd3b-0f4f-467a-854c-62641927826e",
+        "name": "tech-interview-handbook",
+        "owner": "yangshun",
+        "stargazers": 118043,
+        "pullRequestsCount": 547,
+        "nextPageCursor": "Y3Vyc29yOjQy",
+        "createdAt": "2024-10-17 18:01:04.697789"
+    },
+    {
+        "objectId": "5d3ebe44-16c8-41cc-b35f-d6cbd507c519",
+        "name": "electron",
+        "owner": "electron",
+        "stargazers": 114032,
+        "pullRequestsCount": 23340,
+        "nextPageCursor": "Y3Vyc29yOjQz",
+        "createdAt": "2024-10-17 18:01:05.442164"
+    },
+    {
+        "objectId": "4a6f4e50-c0c9-459d-9998-49943919861e",
+        "name": "awesome-chatgpt-prompts",
+        "owner": "f",
+        "stargazers": 111738,
+        "pullRequestsCount": 598,
+        "nextPageCursor": "Y3Vyc29yOjQ0",
+        "createdAt": "2024-10-17 18:01:06.135346"
+    },
+    {
+        "objectId": "e4006364-a793-4b2d-8772-37d948cc5df3",
+        "name": "free-programming-books-zh_CN",
+        "owner": "justjavac",
+        "stargazers": 111486,
+        "pullRequestsCount": 467,
+        "nextPageCursor": "Y3Vyc29yOjQ1",
+        "createdAt": "2024-10-17 18:01:06.838282"
+    },
+    {
+        "objectId": "47dc1cf8-b4cb-40c0-be88-3af3887ed3b8",
+        "name": "PowerToys",
+        "owner": "microsoft",
+        "stargazers": 110543,
+        "pullRequestsCount": 5550,
+        "nextPageCursor": "Y3Vyc29yOjQ2",
+        "createdAt": "2024-10-17 18:01:07.545952"
+    },
+    {
+        "objectId": "e41dba04-a28f-45af-be62-d5f809cb0609",
+        "name": "kubernetes",
+        "owner": "kubernetes",
+        "stargazers": 110520,
+        "pullRequestsCount": 81672,
+        "nextPageCursor": "Y3Vyc29yOjQ3",
+        "createdAt": "2024-10-17 18:01:08.252726"
+    },
+    {
+        "objectId": "8210dd5a-c2bd-4184-82ed-c65d3f2de1de",
+        "name": "scrcpy",
+        "owner": "Genymobile",
+        "stargazers": 110493,
+        "pullRequestsCount": 478,
+        "nextPageCursor": "Y3Vyc29yOjQ4",
+        "createdAt": "2024-10-17 18:01:09.053926"
+    },
+    {
+        "objectId": "56f90818-12a7-497c-a759-7c77e8587815",
+        "name": "d3",
+        "owner": "d3",
+        "stargazers": 108671,
+        "pullRequestsCount": 1185,
+        "nextPageCursor": "Y3Vyc29yOjQ5",
+        "createdAt": "2024-10-17 18:01:09.847126"
+    },
+    {
+        "objectId": "f5bc2ba0-4b29-4b93-9d13-bd7f59a696c8",
+        "name": "node",
+        "owner": "nodejs",
+        "stargazers": 107242,
+        "pullRequestsCount": 34993,
+        "nextPageCursor": "Y3Vyc29yOjUw",
+        "createdAt": "2024-10-17 18:01:10.545394"
+    },
+    {
+        "objectId": "a26e6383-073f-4172-a6f8-37aa85fe6d5f",
+        "name": "axios",
+        "owner": "axios",
+        "stargazers": 105486,
+        "pullRequestsCount": 1702,
+        "nextPageCursor": "Y3Vyc29yOjUx",
+        "createdAt": "2024-10-17 18:01:11.242893"
+    },
+    {
+        "objectId": "c2175396-3d86-4898-ab66-0307c5c30a8c",
+        "name": "create-react-app",
+        "owner": "facebook",
+        "stargazers": 102693,
+        "pullRequestsCount": 4288,
+        "nextPageCursor": "Y3Vyc29yOjUy",
+        "createdAt": "2024-10-17 18:01:12.104769"
+    },
+    {
+        "objectId": "5e8909d1-aa64-4fc7-9888-aa5315b65437",
+        "name": "three.js",
+        "owner": "mrdoob",
+        "stargazers": 102254,
+        "pullRequestsCount": 16891,
+        "nextPageCursor": "Y3Vyc29yOjUz",
+        "createdAt": "2024-10-17 18:01:12.830643"
+    },
+    {
+        "objectId": "706a2b77-8745-474e-89fb-740ef43afca0",
+        "name": "TypeScript",
+        "owner": "microsoft",
+        "stargazers": 100693,
+        "pullRequestsCount": 18154,
+        "nextPageCursor": "Y3Vyc29yOjU0",
+        "createdAt": "2024-10-17 18:01:13.671357"
+    },
+    {
+        "objectId": "56071d1d-0c9f-4496-be73-ad2c05e26eb9",
+        "name": "nodebestpractices",
+        "owner": "goldbergyoni",
+        "stargazers": 99688,
+        "pullRequestsCount": 958,
+        "nextPageCursor": "Y3Vyc29yOjU1",
+        "createdAt": "2024-10-17 18:01:14.357369"
     }
 ]
